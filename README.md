@@ -1,6 +1,8 @@
 # Clint
 Clint is a Traxxas Stampede 4x4 RC Car modified by me. It features a 5.8Ghz FPV system with the option of panning the camera.
 
+![Current iteration](Media/after.JPG)
+
 [YT Vid](https://www.youtube.com/embed/WeP4QTIqyTM)
 
 ## Idea
@@ -11,7 +13,7 @@ I got the car while still in primary school. With my head buzzing with excitemen
 Until now.
 
 ## Alpha
-The first iteration was coarse. But glorious. With mounts made of nothing but off-the-shelf woodworking elements it was a true expression of my DIY soul.
+The first iteration was coarse. But glorious. With mounts made of nothing but off-the-shelf woodworking elements it was a true expression of my DIY soul. The following pictures are a reconstruction of what it looked like, as by the time I took them, I had already torn the Alpha apart to take measurements for the 3D printed mounts. In that process, the camera mount had been disintegrated, hence the lack thereof at the front.
 
 ![alpha34](Media/alpha_rear_quarter.JPG)
 
@@ -27,11 +29,13 @@ This one was meant to impress. Did it succeed? Tell me Yourself:
 
 ### Mounts
 The carpentry-inspired mounts would not cut it for me, so I had to come up with a tidier solution. Hence, the 3D printed mounts.
+
 ![3d_servo](Media/servo_3d.JPG)
 ![3d_tx](Media/tx_3d.JPG)
 ![3d_batt](Media/batt_3d.JPG)
+![3d_batt2](Media/batt_3d2.JPG)
 
-The bottom one holds the main 7.4V battery down in the tub chassis and provides support for the secondary 12V battery, powering the electronics. Atop of that sits a box in which the Arduino and other circuitry is mounted. But more on that in a sec.
+There are two components in the battery assembly. The bottom one holds the main 7.4V battery down in the tub chassis and provides support for the secondary 12V battery, powering the electronics. Atop of that sits a box in which the Arduino and other circuitry is mounted. But more on that in a sec.
 
 [SolidWorks Projects](CAD/)
 
