@@ -12,9 +12,10 @@ Until now.
 
 ## Alpha
 The first iteration was coarse. But glorious. With mounts made of nothing but off-the-shelf woodworking elements it was a true expression of my DIY soul.
-![alpha3/4](Media/alpha_rear_quarter.jpg)
 
-![alpha_tx](Media/alpha_tx.jpg)
+![alpha34](Media/alpha_rear_quarter.JPG)
+
+![alpha_tx](Media/alpha_tx.JPG)
 
 It featured a 5.8Ghz FPV system, originally intended for drones. But in my truck it worked like a dream. Virtually zero latency, sharp image, little distortion. But my thirst for excellence was far from quenched...
 
@@ -26,9 +27,9 @@ This one was meant to impress. Did it succeed? Tell me Yourself:
 
 ### Mounts
 The carpentry-inspired mounts would not cut it for me, so I had to come up with a tidier solution. Hence, the 3D printed mounts.
-![3d_servo](Media/servo_3d.jpg)
-![3d_tx](Media/tx_3d.jpg)
-![3d_batt](Media/batt_3d.jpg)
+![3d_servo](Media/servo_3d.JPG)
+![3d_tx](Media/tx_3d.JPG)
+![3d_batt](Media/batt_3d.JPG)
 
 The bottom one holds the main 7.4V battery down in the tub chassis and provides support for the secondary 12V battery, powering the electronics. Atop of that sits a box in which the Arduino and other circuitry is mounted. But more on that in a sec.
 
@@ -62,7 +63,7 @@ This system is imperfect due to latency and limited options, among other reasons
 ### Driver side
 Little attention was paid to the driver side in this article, but I figured it's also worth showcasing. This remained unchanged ever since the Alpha iteration of Clint. Making it ergonomic is a secondary concern at the current development stage.
 
-[The driver's setup](Media/setup.jpg)
+![The driver's setup](Media/setup.jpg)
 
 The mounts strap behind your belt which is mounting point one and two, the third one being your neck, from which the wooden construction hangs on a piece of rope. The screen is mounted to a bolt head and held down with rubber bands, as displayed in the YT video.
 
