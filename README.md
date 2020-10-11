@@ -1,7 +1,7 @@
 # Clint
 Clint is a Traxxas Stampede 4x4 RC Car modified by me. It features a 5.8Ghz FPV system with the option of panning the camera.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WeP4QTIqyTM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[YT Vid](https://www.youtube.com/embed/WeP4QTIqyTM)
 
 ## Idea
 I've always been a big fan of the automotive industry. My parents will testify that car brands were some of the first words I learned. At only a couple years old I knew not only the makes and models of cars, but in some cases the specs of the engine such as power and torque, as well as 0-60 times etc. Seeing as I wouldn't be able to drive a real car for many years that followed my dad got me the next best thing - an RC car. Not the one you saw in the video, mind You. After a couple delightful years spent with my first flame, I decided it was time to upgrade. The vehicle of choice? The Traxxas Stampede 4x4.
@@ -22,7 +22,7 @@ It featured a 5.8Ghz FPV system, originally intended for drones. But in my truck
 
 This one was meant to impress. Did it succeed? Tell me Yourself:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WeP4QTIqyTM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[YT vid again](https://www.youtube.com/embed/WeP4QTIqyTM)
 
 ### Mounts
 The carpentry-inspired mounts would not cut it for me, so I had to come up with a tidier solution. Hence, the 3D printed mounts.
@@ -57,7 +57,7 @@ Despite my lack of experience in mobile app development I decided to tackle the 
 
 [BT App](Program/AndroidApp/)
 
-This system is imperfect due to latency and limited options, among other reasons. However, I am planning to add functionality, such as a slider for adjusting the angle of the camera, as well as improve the responsiveness. In spite of the aforementioned shortcomings **I am proud of it**, as it delivers on the promise I set out to realise: to have a camera which I can pan to the left and right remotely.
+This system is imperfect due to latency and limited options, among other reasons. However, I am planning to add functionality, such as a slider for adjusting the angle of the camera, as well as improve the responsiveness. In spite of the aforementioned shortcomings **I am proud of it**, as it delivers on the promise I set out to realize: to have a camera which I can pan to the left and right remotely.
 
 ### Driver side
 Little attention was paid to the driver side in this article, but I figured it's also worth showcasing. This remained unchanged ever since the Alpha iteration of Clint. Making it ergonomic is a secondary concern at the current development stage.
