@@ -3,7 +3,7 @@ Clint is a Traxxas Stampede 4x4 RC Car modified by me. It features a 5.8Ghz FPV 
 
 ![Current iteration](Media/after.JPG)
 
-[YT Vid](https://www.youtube.com/embed/WeP4QTIqyTM)
+[YT Vid](https://youtu.be/WeP4QTIqyTM)
 
 ## Idea
 I've always been a big fan of the automotive industry. My parents will testify that car brands were some of the first words I learned. At only a couple years old I knew not only the makes and models of cars, but in some cases the specs of the engine such as power and torque, as well as 0-60 times etc. Seeing as I wouldn't be able to drive a real car for many years that followed my dad got me the next best thing - an RC car. Not the one you saw in the video, mind You. After a couple delightful years spent with my first flame, I decided it was time to upgrade. The vehicle of choice? The Traxxas Stampede 4x4.
@@ -25,7 +25,21 @@ It featured a 5.8Ghz FPV system, originally intended for drones. But in my truck
 
 This one was meant to impress. Did it succeed? Tell me Yourself:
 
-[YT vid again](https://www.youtube.com/embed/WeP4QTIqyTM)
+[YT vid again](https://youtu.be/WeP4QTIqyTM)
+
+Hardware List:
+
+FPV Radio:
+- TX: TS5828S
+- RX: Boscam RC832
+- Camera: Yes. (1200TVL, PAL)
+
+Camera Panning:
+- Microcontroller: Arduino UNO R3
+- BT Module: HC05
+- Servo: Multiplex Mini-HD
+
+Batteries: Redox LiPo.
 
 ### Mounts
 The carpentry-inspired mounts would not cut it for me, so I had to come up with a tidier solution. Hence, the 3D printed mounts.
